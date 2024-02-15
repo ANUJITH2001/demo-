@@ -1,3 +1,3 @@
-#demo repositary
+# DEMO REPOSITARY
 
 A description
